@@ -1,1 +1,5 @@
 # Is-NBA-Game-fair-
+
+### Over the years, the NBA has consistently been one of the most popular sports organizations and has attracted millions of fans. Because of the NBA's game characteristics, a referee's missed or wrong call has a massive effect on the game outcomes. With its vast fanbase, the fairness of referee calls has been widely discussed among fans and spectators worldwide. There are claims that the league favors star players for higher TV viewerships or higher volumes of ticket sales through biased referee calls.
+
+### This project aims to test the hypothesis that referee calls favor teams with super players. The definition of super players is controversial since each fan has their particular favorite player. In this project, we selected the top 10 players for jersey sales from the past nine seasons as our super players. Purchasing a particular player's jersey signifies the players’s popularity. Also, for these 90 super players (10 players each season, 9 seasons in total), we will consider any team with a superstar player as a "super team" for that year.
